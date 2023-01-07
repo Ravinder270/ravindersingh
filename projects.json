@@ -1,0 +1,23 @@
+[
+	{
+		"name": "laptop_Seller",
+		"info": "It is a laptop Selling web app. Sabse mast and Sabse bdiya laptop milenge :)",
+		"image": "Laptop_Seller.png",
+		"githubLink": "https://github.com/Ravinder270/LaptopSeller",
+		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+	},
+	{
+		"name": "Weather_Dashboard_App",
+		"info": "This project was made to tell the weather of the particular place.",
+		"image": "Weather_Web_App.png",
+		"githubLink": "https://github.com/Ravinder270/Weather_Web_App",
+		"languages": ["fa-html5", "fa-css3", "fa-js"]
+	},
+	{
+		"name": "Blogway",
+		"image":"download.jpg",
+		"info": "Blogway is a web app created with React that allows users to blog and write article. Users of this app can dance",
+		"githubLink": "https://github.com/Ravinder270/Blogway",
+		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+	}
+	]
