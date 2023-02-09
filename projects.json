@@ -1,13 +1,13 @@
 [
 	{
-		"name": "laptop_Seller",
-		"info": "It is a laptop Selling web app. Sabse mast and Sabse bdiya laptop milenge :)",
-		"image": "Laptop_Seller.png",
-		"githubLink": "https://github.com/Ravinder270/LaptopSeller",
+		"name": "ClickShow",
+		"info": "It is a movie finder web app.",
+		"image": "",
+		"githubLink": "https://github.com/Ravinder270/Click_Show-Movie_Finder",
 		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
 	},
 	{
-		"name": "Weather_Dashboard_App",
+		"name": "Weather_Web_App",
 		"info": "This project was made to tell the weather of the particular place.",
 		"image": "Weather_Web_App.png",
 		"githubLink": "https://github.com/Ravinder270/Weather_Web_App",
@@ -15,8 +15,8 @@
 	},
 	{
 		"name": "Blogway",
-		"image":"download.jpg",
-		"info": "Blogway is a web app created with React that allows users to blog and write article. Users of this app can dance",
+		"image":"",
+		"info": "Blogway is a web app created with React that allows users to read blog and write article. Users of this app can also comment their views on the particular blog",
 		"githubLink": "https://github.com/Ravinder270/Blogway",
 		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
 	}
