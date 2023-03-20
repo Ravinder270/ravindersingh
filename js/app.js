@@ -189,10 +189,7 @@ async function getProjects() {
               </div>
             </div>
           </div>
-          <div class="img-container">
-            <div class="img lozad" data-background-image="./assets/images/${image}"></div>
-            
-          </div>
+          
         </div>
       </div>
     `;

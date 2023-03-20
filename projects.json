@@ -1,23 +1,32 @@
 [
 	{
+		"name": "Blogway",
+		"info": "Blogway is a React web app that allows users to read blog and write blog as well. Users of this app can also comment their views on the particular blog as well as like the blog as well as follow the other users.",
+		"githubLink": "https://github.com/Ravinder270/Blogway",
+		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+	},
+	{
+		"name": "Find me Eatery App",
+		"info": "Find Me Eatery is an app that chooses a restaurant to eat at for you whether you are looking to try something new, just want to eat out, or having trouble choosing. This was my first Android app.",
+		"githubLink": "https://github.com/Ravinder270/Find_Me_Eatery",
+		"languages": ["fa-java", "fa-android"]
+	},
+	{
 		"name": "ClickShow",
-		"info": "It is a movie finder web app.",
-		"image": "",
+		"info": "ClickShow is a React Web app which aimed to help users search for and find movies with certain filters such as genre, popularity, and year.",
 		"githubLink": "https://github.com/Ravinder270/Click_Show-Movie_Finder",
 		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
 	},
 	{
 		"name": "Weather_Web_App",
-		"info": "This project was made to tell the weather of the particular place.",
-		"image": "Weather_Web_App.png",
+		"info": "Weather Web App is a Web app in which users can search weather for the particular place. Users will also get to know the 5-day Forecast",
 		"githubLink": "https://github.com/Ravinder270/Weather_Web_App",
 		"languages": ["fa-html5", "fa-css3", "fa-js"]
 	},
 	{
-		"name": "Blogway",
-		"image":"",
-		"info": "Blogway is a web app created with React that allows users to read blog and write article. Users of this app can also comment their views on the particular blog",
-		"githubLink": "https://github.com/Ravinder270/Blogway",
-		"languages": ["fa-html5", "fa-css3", "fa-js", "fa-react"]
+		"name": "Tetris Game",
+		"info": "It includes the 7 original tetrimino shapes, and works with a keydown event being fired to move/rotate the piece.The game starts by moving a piece down by a square every 750ms, and you get 10 points for every row you complete filling.",
+		"githubLink": "https://github.com/Ravinder270/Tetris-Game",
+		"languages": ["fa-html5", "fa-css3", "fa-js"]
 	}
 	]
